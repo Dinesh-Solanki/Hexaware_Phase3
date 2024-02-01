@@ -1,0 +1,7 @@
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\bin\Debug\DesignPatternBuilder.exe.config
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\bin\Debug\DesignPatternBuilder.exe
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\bin\Debug\DesignPatternBuilder.pdb
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\obj\Debug\DesignPatternBuilder.csproj.AssemblyReference.cache
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\obj\Debug\DesignPatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\obj\Debug\DesignPatternBuilder.exe
+C:\Users\dines\OneDrive\Desktop\PHASE 3\Demo C#\Day 3\DesignPatternBuilder\DesignPatternBuilder\obj\Debug\DesignPatternBuilder.pdb
